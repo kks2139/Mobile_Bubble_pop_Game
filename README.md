@@ -1,1 +1,1 @@
-# This is a bubble pop game for Android
+# Bubble pop game for Android
